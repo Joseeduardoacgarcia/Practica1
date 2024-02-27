@@ -8,6 +8,8 @@ public class Nombres {
 		// TODO Auto-generated method stub
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Jose");
+		System.out.println("Yael");
+		System.out.println("Vianey");
 	}
 
 }
